@@ -1,4 +1,4 @@
-rm-rf File
+rm -rf File
 
 git clone https://github.com/ariyan-momin/File
 
